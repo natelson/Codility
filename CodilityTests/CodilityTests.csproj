@@ -59,7 +59,11 @@
     <Compile Include="BinaryGapTests.cs" />
     <Compile Include="CyclicRotationTests.cs" />
     <Compile Include="FrogJmpTests.cs" />
+    <Compile Include="FrogRiverOneTests.cs" />
+    <Compile Include="MaxCountersTests.cs" />
+    <Compile Include="MissingIntegerTests.cs" />
     <Compile Include="OddOccurrencesInArrayTests.cs" />
+    <Compile Include="PermCheckTests.cs" />
     <Compile Include="PermMissingElemTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TapeEquilibriumTests.cs" />
