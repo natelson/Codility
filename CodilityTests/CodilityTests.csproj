@@ -57,12 +57,16 @@
   </Choose>
   <ItemGroup>
     <Compile Include="BinaryGapTests.cs" />
+    <Compile Include="CountDivTests.cs" />
     <Compile Include="CyclicRotationTests.cs" />
     <Compile Include="FrogJmpTests.cs" />
     <Compile Include="FrogRiverOneTests.cs" />
+    <Compile Include="GenomicRangeQueryTests.cs" />
     <Compile Include="MaxCountersTests.cs" />
+    <Compile Include="MinAvgTwoSliceTests.cs" />
     <Compile Include="MissingIntegerTests.cs" />
     <Compile Include="OddOccurrencesInArrayTests.cs" />
+    <Compile Include="PassingCarsTests.cs" />
     <Compile Include="PermCheckTests.cs" />
     <Compile Include="PermMissingElemTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
